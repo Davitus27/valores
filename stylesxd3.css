@@ -1,0 +1,37 @@
+body {
+    background-color: #d7c7f0
+}
+
+h1 {
+    color: #f76565;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
+    background-color: #9E97FA
+}
+
+tr {
+    background-color: #C5D7F2
+}
+
+h4 {
+    font-family: Forte, cursive;
+}

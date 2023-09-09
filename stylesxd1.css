@@ -1,0 +1,52 @@
+body {
+    background-color: #d7c7f0;
+    font-family: 'Yu Gothic UI Semibold', sans-serif;
+}
+
+.red-text {
+    color: #eb4444;
+    font-family: 'Yu Gothic UI Semibold', sans-serif;
+
+}
+
+h1 {
+    color: #f76565;
+    font-family: Broadway, sans-serif;
+    text-align: center;
+}
+
+hr {
+    size: 10px;
+    width: 100%;
+    align: center;
+    color: #145A4C;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    color: #f76565;
+    font-family: Broadway, sans-serif;
+    
+}
+
+img {
+    border: 1px solid #000;
+    max-width: 300px;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #eb4444;
+    font-family: 'Yu Gothic UI Semibold', sans-serif;
+}
